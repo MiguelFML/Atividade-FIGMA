@@ -1,0 +1,39 @@
+.menu{
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	
+}
+.logo{
+	display: flex;
+	align-items: center;
+	margin: 1em;
+}
+.categorias{
+	display: flex;
+	align-items: center;
+	
+	
+}
+
+.cat_item{
+	margin: 1.5em;
+	color: #3A404E;
+}
+
+.login{
+	margin: 1.5em;
+	display: flex;
+	align-items: center;
+}
+
+.botao_cad{
+	background-color: #8E2424;
+	color: #FFFFFF;
+	padding: 6%;
+	border-radius: 5px 5px 5px 5px;
+	
+}
+.botão_cad:hover{
+	border: 1px solid black;
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import "header.css";
+
+@import "main.css";
+@import "footer.css";
+*{
+margin: 0;
+padding: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+.login a{
+    text-decoration: none;
+}
+body{
+    font-family: 'Inter';
+}
+ul {
+	list-style: none;
+}
